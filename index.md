@@ -1,6 +1,6 @@
 ### Portfolio
 
-[MAVC](https://github.com/m6a6v6c/portfolio/blob/index.html)
+[MAVC](https://github.com/m6a6v6c/portfolio/index.html)
 
 
 You can use the [editor on GitHub](https://github.com/m6a6v6c/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
